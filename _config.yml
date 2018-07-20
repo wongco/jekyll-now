@@ -84,3 +84,6 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+
+# Test Adding Cayman Theme
+theme: jekyll-theme-cayman
